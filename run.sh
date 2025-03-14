@@ -1,3 +1,3 @@
-kafka-3.7.2-src/bin/zookeeper-server-start.sh  kafka-3.7.2-src/config/zookeeper.properties 
+kafka_2.12-3.7.2/bin/zookeeper-server-start.sh  kafka_2.12-3.7.2/config/zookeeper.properties 
 sleep 2
-kafka-3.7.2-src/bin/kafka-server-start.sh  kafka-3.7.2-src/config/server.properties
+kafka_2.12-3.7.2/bin/kafka-server-start.sh  kafka_2.12-3.7.2/config/server.properties
